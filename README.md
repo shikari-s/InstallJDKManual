@@ -20,7 +20,7 @@ https://adoptopenjdk.net/
 
 `Choose a Version` は最新のものを選択します。(画像では14になっています。)
 
-![jdkのバージョン選択](image/select_jdk_version_red_marker.png)
+![jdkのバージョン選択](image/select_jdk_version.png)
 
 青い `Latest release` ボタンを押下するとダウンロードが始まります。
 
@@ -48,7 +48,11 @@ https://adoptopenjdk.net/
 
 以下のような画面が立ち上がったら `Set JAVA_HOME variable` のドロップダウンを開き `ローカルハードドライブにインストール` を選択します。
 
-![設定](image/settings.png)
+![設定](image/select_Set_JAVA_HOME_variable.png)
+
+`ローカルハードドライブにインストール` を選択すると、アイコンが変わります。
+
+![設定後](image/settings.png)
 
 選択が完了したら次へを押下します。
 
