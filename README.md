@@ -60,7 +60,15 @@ https://adoptopenjdk.net/
 
 1. コマンドプロンプトを開く
 
-2. `java -version`と入力し、Enterを押下
+デスクトップ画面で `Windows キー` を押下しながら `R` キーを押下します。
+
+以下の画面が立ち上がったら、`cmd` と入力し `OK` ボタンを押下します。
+
+![Searcher](image/Searcher.png)
+
+2. コマンドを入力
+
+コマンドプロンプトが立ち上がったら、`java -version`と入力し、Enterを押下します。
 
 ![java -version](image/input_java_version.png)
 
