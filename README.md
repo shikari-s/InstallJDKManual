@@ -1,10 +1,16 @@
 # Javaインストールマニュアル
 
-ここでは、Windows向けのJavaのインストール手順を紹介します。
+## はじめに
+
+本学ではプログラミング言語であるJavaを用い、授業を行う科目があるため、そういった授業に対応するために、ここでは `Windows` 向けの `Java` の環境構築を行う手順を紹介します。
+
+以下、画像などで `Java` ではなく、 `jdk(JDK)` と表記されることがあります。
+
+※ `jdk(JDK)` とは `Java SE Development Kit` の略で、Javaのコンパイラ等が内包されています。
 
 ## 手順1 : インストーラーをダウンロード
 
-※このマニュアルではダウンロードを `Chrome` から行っていますが、ブラウザの指定はありません。
+このマニュアルではダウンロードを `Chrome` から行っていますが、ブラウザの指定はありません。
 
 下記URLにアクセスして以下のページを開きます。
 
@@ -58,7 +64,7 @@ https://adoptopenjdk.net/
 
 以下の手順で確認してください。
 
-1. コマンドプロンプトを開く
+### 1. コマンドプロンプトを開く
 
 デスクトップ画面で `Windows キー` を押下しながら `R キー` を押下します。
 
@@ -66,13 +72,13 @@ https://adoptopenjdk.net/
 
 ![Searcher](image/Searcher.png)
 
-2. コマンドを入力
+### 2. コマンドを入力
 
 コマンドプロンプトが立ち上がったら、`java -version`と入力し、Enterを押下します。
 
 ![java -version](image/input_java_version.png)
 
-3. Javaのバージョンを確認
+### 3. Javaのバージョンを確認
 
 ![jdk version](image/view_java_version.png)
 
