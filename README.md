@@ -20,7 +20,7 @@ https://adoptopenjdk.net/
 
 `Choose a Version` は最新のものを選択します。(画像では14になっています。)
 
-![jdkのバージョン選択](image/select_jdk_version.png)
+![jdkのバージョン選択](image/select_jdk_version_red_marker.png)
 
 青い `Latest release` ボタンを押下するとダウンロードが始まります。
 
